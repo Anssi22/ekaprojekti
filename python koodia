@@ -1,0 +1,3 @@
+def funktio_simo(lista: list):
+    tama = "jee"
+    print(tama)
